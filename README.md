@@ -6,7 +6,7 @@
 </h1>
 
 <p align='center'>
-  A fullstack and mobile developer in Ghana.
+  A fullstack web and mobile developer in Ghana.
 </p>
 
 
