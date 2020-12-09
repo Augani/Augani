@@ -12,10 +12,8 @@
 
 
 <p align='center'>
-  <i>Chat me up anytime</i>
-  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
+  
+  
   <a href="https://www.linkedin.com/in/augustusotu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -49,7 +47,7 @@
 - ☀️ Building enterprise applications in java and javascript.
 - 👯 I’m looking to collaborate on anything involving js/typescript, python, golang and java
 - 💬 Ask me about anything related to ytechnology and i have something to say
-- ⚡ Fun fact: I 
+
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact)
