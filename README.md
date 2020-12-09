@@ -46,7 +46,7 @@
 - 💻 Working as a **Fullstack engineer** at [Epareto information systems](https://www.crestdatasys.com/a).
 - ☀️ Building enterprise applications in java and javascript.
 - 👯 I’m looking to collaborate on anything involving js/typescript, python, golang and java
-- 💬 Ask me about anything related to ytechnology and i have something to say
+- 💬 Ask me about anything related to technology and I have something to say
 
 
 
