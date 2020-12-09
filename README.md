@@ -1,40 +1,61 @@
-### Hi there 👋 Augustus otu here
 
-### Hey, Augustus Otu here
-I am a Full stack and mobile app developer. I love experimenting with new technologies and building .
 
+
+<h1 align='center'>
+  Hi there 👋 I'm Augustus 
+</h1>
+
+<p align='center'>
+  A fullstack and mobile developer in Ghana.
+</p>
+
+
+
+<p align='center'>
+  <i>Chat me up anytime</i>
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/augustusotu/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/iamaugustusotu">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/augustusotu">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  💻 My Stack<br/><br/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+
+
+- 🔭 I’m currently working on a chat app
 - 💻 Working as a **Fullstack engineer** at [Epareto information systems](https://www.crestdatasys.com/a).
 - ☀️ Building enterprise applications in java and javascript.
 - 👯 I’m looking to collaborate on anything involving js/typescript, python, golang and java
-- 💬 Ask me about anything web based, i have something to say
-⚡ Fun fact: I have the foundation in C++, C#, Java, Golang so i can pick up any of them whenever i want to build something
+- 💬 Ask me about anything related to ytechnology and i have something to say
+- ⚡ Fun fact: I 
 
-**Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code> 
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=augani&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact)
 
 <hr>
-<p align="center">
-  <i>Chat me up anytime</i>
-<p align="center">
-    <a href="https://twitter.com/augustusotu" alt="Twitter"><img src="https://github.com/imdhruv99/augani/blob/master/readme/twitter (1).png"></a>
-    <a href="https://www.linkedin.com/in/augustusotu/" alt="Linkedin"><img src="https://github.com/augani/readme/blob/master/readme/linkedin (1).png"></a>
-    <a href="https://www.instagram.com/iamaugustusotu" alt="Instagram"><img src="https://github.com/augani/imdhruv99/blob/master/readme/insta1.png"></a>
-    <a href="https://www.facebook.com/augustusotu/" alt="Facebook"><img src="https://github.com/augani/imdhruv99/blob/master/readme/facebook (1).png"></a>
-</p>
-  
-</p>
+
 <!--
 **Augani/Augani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
