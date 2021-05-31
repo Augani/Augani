@@ -27,11 +27,20 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&count_private=true&theme=synthwave" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&count_private=true" width="350"></a>
 </p>
 
-
+<hr>
 <p align='center'>
+  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact&count_private=true&hide=css,html,less,scss)
+  
+</p>  
+
+
+
+
+<p>
   💻 My Stack<br/><br/>
   <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=orange" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -42,18 +51,22 @@
 </p>
 
 
+<hr>
 
 - 🔭 I’m currently working on a chat app
 - 💻 Currently loooking for my next challenge
 - ☀️ Building enterprise applications in java and javascript.
 - 👯 I’m looking to collaborate on anything involving js/typescript, python, golang and java
 - 💬 Ask me about anything related to technology and I have something to say or tell you I don't know
+- 📫 Reach me via [Email](mailto:augani7@gmail.com?subject=From%20github)
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact&count_private=true&hide=css,html,less,scss)
 
 <hr>
+
+
+
 
 <!--
 **Augani/Augani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
