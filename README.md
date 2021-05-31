@@ -27,8 +27,9 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&count_private=true&theme=synthwave" width="350"></a>
 </p>
+
 
 <p align='center'>
   💻 My Stack<br/><br/>
@@ -36,7 +37,6 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
@@ -51,7 +51,7 @@
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact&count_private=true&hide=css,html,less,scss)
 
 <hr>
 
