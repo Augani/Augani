@@ -38,8 +38,6 @@
 </p>  
 
 
-
-
 <p>
   💻 My Stack<br/><br/>
   <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=orange" />
@@ -49,6 +47,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
+
+<hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <hr>
