@@ -52,10 +52,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 46 mins   ████████████▓░░░░░░░░░░░░   50.83 % 
-Go           5 hrs 23 mins   ████████████░░░░░░░░░░░░░   47.45 % 
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Terraform    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Go           9 hrs 13 mins   ████████████████░░░░░░░░░   64.64 % 
+JavaScript   4 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.92 % 
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Terraform    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
 
