@@ -52,11 +52,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Go                         4 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   36.82 % 
-Nginx configuration file   3 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-YAML                       3 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
-JavaScript                 39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Makefile                   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Nginx configuration file   3 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.30 % 
+Go                         2 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+YAML                       2 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+JavaScript                 39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Other                      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
 
