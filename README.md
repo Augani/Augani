@@ -60,10 +60,8 @@ No activity tracked
 
 
 <hr>
-
-- 🔭 I’m currently working on a chat app
 - 💻 Currently loooking for my next challenge
-- ☀️ Building enterprise applications in java and javascript.
+- ☀️ Building enterprise applications in Golang and javascript.
 - 👯 I’m looking to collaborate on anything involving js/typescript, python, golang and java
 - 💬 Ask me about anything related to technology and I have something to say or tell you I don't know
 - 📫 Reach me via [Email](mailto:augani7@gmail.com?subject=From%20github)
