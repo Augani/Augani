@@ -60,6 +60,7 @@ No activity tracked
 
 
 <hr>
+
 - 💻 Currently loooking for my next challenge
 - ☀️ Building enterprise applications in Golang and javascript.
 - 👯 I’m looking to collaborate on anything involving js/typescript, python, golang and java
