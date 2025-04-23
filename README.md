@@ -1,91 +1,56 @@
+<h1 align="center">Hi there 👋 I'm Augustus Otu</h1>
 
-
-
-<h1 align='center'>
-  Hi there 👋 I'm Augustus 
-</h1>
-
-<p align='center'>
-  A fullstack web and mobile developer in Ghana.
+<p align="center">
+  A full-stack engineer in Heilbronn, Germany 🇩🇪, building cloud-native applications with Golang, TypeScript, and Kubernetes.
 </p>
 
-
-
-<p align='center'>
-  
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/augustusotu/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/iamaugustusotu">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://twitter.com/augustusotu">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/iamaugustusotu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&count_private=true" width="350"></a>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on: scalable real-time apps, a review/rating platform, and a smart AI-powered dating app.
+- 🛠 Focused on enterprise applications using **Golang**, **TypeScript**, **React**, **Kubernetes**, and **PostgreSQL**.
+- 🤝 I’m open to collaboration on products that solve real-world problems — fintech, healthcare, fraud detection, dev tools.
+- 🌍 Looking for remote roles or opportunities in Germany with immediate transfer support.
+- 💬 Ask me about architecture, scalability, or career advice — or just say hi.
+
+---
+
+## 🧠 My Tech Stack
+
+| Language      | Framework/Tooling       | Cloud & DevOps        |
+|---------------|--------------------------|------------------------|
+| ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | React, Next.js, TailwindCSS | Google Cloud, Firebase |
+| ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white) | Node.js, Express        | Kubernetes, Docker |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | Prisma, GraphQL         | GitHub Actions, Cloud Build |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) | Jest, Cypress, PM2      | Vercel, Hetzner |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&count_private=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact&hide=css,html,less,scss&count_private=true" height="150" />
 </p>
 
-<hr>
-<p align='center'>
-  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact&count_private=true&hide=css,html,less,scss)
-  
-</p>  
+---
 
+## 📬 Contact Me
 
-<p>
-  💻 My Stack<br/><br/>
-  <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=orange" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+- Email: [augani7@gmail.com](mailto:augani7@gmail.com?subject=From%20GitHub)
+- Portfolio: [github.com/augani](https://github.com/augani)
 
-<hr>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-<hr>
-
-- 💻 Currently building stuff i love
-- ☀️ Building enterprise applications in Golang and javascript.
-- 👯 I’m looking to collaborate on anything involving js/typescript, python, golang and java
-- 💬 Ask me about anything related to technology and I have something to say or tell you I don't know
-- 📫 Reach me via [Email](mailto:augani7@gmail.com?subject=From%20github)
-
-
-
-
-<hr>
-
-
-
-
-<!--
-**Augani/Augani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
