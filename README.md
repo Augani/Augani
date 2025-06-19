@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: scalable real-time apps, a review/rating platform, and a smart AI-powered dating app.
+- 🔭 Currently working on: scalable real-time apps, a review/rating platform, and a smart AI-powered dating app and building [Toki space](https://tokispace.com).
 - 🛠 Focused on enterprise applications using **Golang**, **TypeScript**, **React**, **Kubernetes**, and **PostgreSQL**.
 - 🤝 I’m open to collaboration on products that solve real-world problems — fintech, healthcare, fraud detection, dev tools.
 - 🌍 Looking for remote roles or opportunities in Germany with immediate transfer support.
@@ -50,7 +50,7 @@
 
 ## 📬 Contact Me
 
-- Email: [augani7@gmail.com](mailto:augani7@gmail.com?subject=From%20GitHub)
+- Email: [augustus.otu](mailto:founder@tokispace.com?subject=From%20GitHub)
 - Portfolio: [github.com/augani](https://github.com/augani)
 
 ---
