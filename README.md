@@ -25,6 +25,7 @@
 - 🤝 I’m open to collaboration on products that solve real-world problems — fintech, healthcare, fraud detection, dev tools.
 - 🌍 Looking for remote roles or opportunities in Germany with immediate transfer support.
 - 💬 Ask me about architecture, scalability, or career advice — or just say hi.
+- [Bet Edge](https://betedge.live)
 - [Toki space](https://tokispace.com)
 - [Have You Seen them](https://haveyouseenthem.org)
 - [Snapform](https://snapform.live)
