@@ -165,16 +165,26 @@ const augustusOtu = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=css,html,less,scss"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=augani&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augani&theme=tokyonight&hide_border=true" alt="augani's streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&ring_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&title_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augani&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=css,html,less,scss&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=augani&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augani&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=augani&theme=tokyonight" alt="Contribution Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=augani&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Contribution Graph" />
 </div>
 
 ---
