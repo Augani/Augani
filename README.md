@@ -362,7 +362,7 @@ Streamlined data management with intuitive interface and powerful features.
 <a href="https://twitter.com/augustusotu">
 <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="50"/>
 <br/><strong>Twitter</strong>
-<br/><sub>@augustusotu</sub>
+<br/><sub>@python_xi</sub>
 </a>
 </td>
 <td align="center">
