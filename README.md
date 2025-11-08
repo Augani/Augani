@@ -132,15 +132,10 @@ impl Developer {
 
 **Modern UI component library built with performance in mind**
 
-A comprehensive, accessible component library for building fast, beautiful web applications.
+A comprehensive, accessible component library for building fast, beautiful desktop applications.
 
-`TypeScript` `React` `TailwindCSS` `Storybook`
+`Rust`
 
-**Features:**
-- ⚡ Zero-runtime CSS-in-JS
-- ♿ Full accessibility (WCAG 2.1)
-- 📦 Tree-shakeable components
-- 🎨 Themeable design system
 
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/augani/adabraka-ui)
 
@@ -194,7 +189,7 @@ Data-driven insights platform for sports betting with real-time odds tracking.
 
 Connecting communities through technology to reunite families.
 
-`Next.js` `Firebase` `Maps API` `Cloud Functions`
+`Next.js` `Maps API` `Cloud Functions`
 
 **Features:**
 - 🗺️ Geolocation search
@@ -216,7 +211,7 @@ Connecting communities through technology to reunite families.
 
 Create beautiful, responsive forms in seconds with advanced logic.
 
-`React` `Node.js` `MongoDB` `TypeScript`
+`React` `Node.js` `PostgreSQL` `TypeScript`
 
 **Features:**
 - 🎨 Visual form builder
@@ -257,7 +252,7 @@ Brain training and mental wellness platform with personalized insights.
 
 Streamlined data management with intuitive interface and powerful features.
 
-`Java` `PostgreSQL` `Docker` `Kubernetes`
+`Rust` `PostgreSQL` `Mysql`
 
 **Features:**
 - 🗄️ Multi-database support
