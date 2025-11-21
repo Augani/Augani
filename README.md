@@ -264,6 +264,22 @@ Streamlined data management with intuitive interface and powerful features.
 
 </td>
 <td width="50%" valign="top">
+  
+### 💼 [Aether API client](https://augani.github.io/aether)
+
+**MacOs Native API Client**
+
+Git based API Client
+
+`Swift`
+
+**Features:**
+- 🗄️ Git Native
+- 🔐 Support for 6 request types
+- 📊 Workflow support
+- 🚀 Testing Support
+
+[![Visit Site](https://img.shields.io/badge/Visit_Site-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://augani.github.io/aether)
 
 </td>
 </tr>
