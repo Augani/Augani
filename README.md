@@ -10,6 +10,7 @@ I build things for the web, desktop, and mobile. Based in Ghana.
 | [One Shot Editor](https://apps.apple.com/de/app/one-shot-editor/id6756202799) | AI photo editor for iOS |
 | [OpenReel Video](https://openreel.video) | Browser-based video editor |
 | [Aether](https://augani.github.io/aether/) | Git-based API client for macOS |
+| [betedge](https://betedge.live) | AI bet predictions |
 
 ## Open Source
 
