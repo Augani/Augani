@@ -5,7 +5,7 @@
 <p align="center">
   <strong>I build the product, the engine, and the tools behind it.</strong><br>
   Open source creative software, local developer infrastructure, and native interfaces.<br>
-  Based in Ghana. Building for people everywhere.
+  Building in the open. For people everywhere.
 </p>
 
 <p align="center">
